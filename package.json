@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "changelogUrl": "https://example.com/changelog.html",
+  "description": "MyHelper allows for easier and shorter acces of more complicated code.",
+  "displayName": "MyHelper",
+  "documentationUrl": "https://example.com/",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "licensesUrl": "https://example.com/licensing.html",
+  "name": "com.radical.myhelper",
+  "type": "tool",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "version": "1.0.0"
+}
